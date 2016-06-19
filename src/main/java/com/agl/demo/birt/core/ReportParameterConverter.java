@@ -15,10 +15,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;;
 
 /**
- * Created with IntelliJ IDEA.
- *
- * @author miroslavkopecky
- *         Date: 5/26/14
+ * 
  *         <p>
  *         inspired: https://spring.io/blog/2012/01/30/spring-framework-birt
  */
